@@ -1,6 +1,6 @@
 # Feedback Widget
 
-Projeto durante o Next Level Week Return (NLW) da trilha Impulse da [Rockeseat](https://www.rocketseat.com.br/ignite).
+Projeto desenvolvido durante o Next Level Week Return (NLW) da trilha Impulse da [Rockeseat](https://www.rocketseat.com.br/ignite).
 
 ## 🖼 Figma
 [Link do Figma](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)
