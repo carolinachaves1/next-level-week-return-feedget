@@ -8,7 +8,7 @@ Projeto durante o Next Level Week Return (NLW) da trilha Impulse da [Rockeseat](
 ## 📑 Stages
 **[Stage 1] - 02/05/2022**
 * Inicialização do projeto utilizando [Vite](https://vitejs.dev/guide/)
-* Classes utilitárias de estibilização com [TailwindCss](https://tailwindcss.com/docs/installation)
+* Classes utilitárias de estilização com [TailwindCss](https://tailwindcss.com/docs/installation)
 * Ícones por [Phosphor Icons](https://phosphoricons.com/)
 
 # :computer: Tecnologias e Ferramentas usadas
