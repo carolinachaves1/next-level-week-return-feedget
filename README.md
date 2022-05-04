@@ -11,6 +11,10 @@ Projeto desenvolvido durante o Next Level Week Return (NLW) da trilha Impulse da
 * Classes utilitárias de estilização com [TailwindCss](https://tailwindcss.com/docs/installation)
 * Ícones por [Phosphor Icons](https://phosphoricons.com/)
 
+**[Stage 2] - 03/05/2022**
+* Comunicação entre componentes
+* Utilização da biblioteca [html2canvas](https://github.com/niklasvh/html2canvas) para fazer screenshot da tela
+
 # :computer: Tecnologias e Ferramentas usadas
 
 * ReactJs
